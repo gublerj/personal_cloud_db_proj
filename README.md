@@ -5,8 +5,6 @@ For several months now I have felt that my knowlage of databases isnt up to spee
 This softwawre is a contact list that is accessed with a simple CRUD menue in the terminal.
 
 
-{4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
 [Software Demo Video](https://youtu.be/tok9sREc6AY)
 
 # firebase Database
